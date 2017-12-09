@@ -51,7 +51,7 @@ def main(ipFile, dic, log):
 
 def help():
     print("python ssh.scan.py :\n\
-        修改dict下的ip文件，password按需求修改，然后执行脚本 \n")
+        修改dict下的ip文件，password按需求修改，然后执行脚本。 \n")
     exit(1)
 
 if __name__ == '__main__':
